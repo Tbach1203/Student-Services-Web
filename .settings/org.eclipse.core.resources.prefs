@@ -1,0 +1,16 @@
+=\=\=\=\=\=\=
+eclipse.preferences.version=1
+encoding//src/main/java/Controllers/DangKyGiayVayController.java=UTF-8
+encoding//src/main/java/Controllers/DangKyGiayXacNhanController.java=UTF-8
+encoding//src/main/java/Controllers/DangKyHoatDongController.java=UTF-8
+encoding//src/main/java/Controllers/DangKyHocBongController.java=UTF-8
+encoding//src/main/java/Controllers/GuiOTPController.java=UTF-8
+encoding//src/main/java/Controllers/QuanLyHoatDongController.java=UTF-8
+encoding//src/main/java/Controllers/TaiKhoanController.java=UTF-8
+encoding//src/main/java/DAO/QuanLyDAO.java=UTF-8
+encoding//src/main/java/DAO/YeuCauDAO.java=UTF-8
+encoding//src/main/java/Models/NhanHocBong.java=UTF-8
+encoding//src/main/webapp/Admin/QuanLySinhVien_Admin_CTSV.jsp=UTF-8
+encoding//src/main/webapp/Admin/ThongTin_Admin.jsp=UTF-8
+encoding//src/main/webapp/SinhVien/Sidebar_SinhVien.jsp=UTF-8
+encoding//src/main/webapp/SinhVien/Topbar_SinhVien.jsp=UTF-8
